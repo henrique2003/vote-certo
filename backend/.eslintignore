@@ -1,0 +1,4 @@
+dist
+node_modeludes
+.env
+.env.test
